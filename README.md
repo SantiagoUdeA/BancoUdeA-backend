@@ -1,6 +1,9 @@
 # Laboratorio 1 Banco UdeA
 
-## Autor: Santiago Zapata Barahona
+## Integrantes 
+Santiago Zapata Barahona
+Mateo Gaviria
+Jose Murillo
 
 Se realizo el controlador de transaccion, permitiendo realizar una transacción de movimiento de dinero entre cuentas y 
 consultar por numero de cuenta el historio de las transacciones
