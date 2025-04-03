@@ -14,5 +14,3 @@ Tambien se agregó al servicio de Customer la logica para editar y elminar un cl
 Y en el CustomerController
 
 ![img_1.png](resources/img_2.png)
-
-### Nota: Se cambió el password de acceso a la bbdd
